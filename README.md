@@ -1,5 +1,7 @@
 # Network Data Sharing System with a P2P Architecture
 
+**Authors**: Martin Sendrowicz, Tristen Linnen, Juan C. Bermeo
+
 The following program allows sending and receiving files/data between users using a cetralized server as a directory to keep track of the users in the network and their files.
 
 The program uses a P2P architecture, however, we can call it a hybrid, since a central environment is used, but, just to keep track of the data and the users. 
